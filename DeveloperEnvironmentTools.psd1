@@ -12,9 +12,9 @@
     
     # Module identification
     GUID = 'b3f4c8e2-1a2b-4c5d-8e9f-1234567890ab'
-    Author = 'Professional Development Team'
-    CompanyName = 'emblem.iO'
-    Copyright = '(c) 2025 emblem.iO. All rights reserved.'
+    Author = 'romar-j'
+    CompanyName = 'emblem-projects-inc'
+    Copyright = '(c) 2025 emblem-projects-inc. All rights reserved.'
     
     # Module description
     Description = 'Professional PowerShell module for development environment setup, automation, and git workflow configuration. Provides comprehensive capabilities for automating development environment setup, configuring git workflows, and managing development toolchains across projects and teams.'
