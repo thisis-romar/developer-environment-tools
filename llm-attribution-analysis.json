@@ -1,0 +1,64 @@
+{
+  "summary": {
+    "highConfidenceAI": 1,
+    "totalCommits": 3,
+    "aiAssistanceRate": 66.7,
+    "aiAssistedCommits": 2
+  },
+  "metadata": {
+    "repository": "developer-environment-tools",
+    "analysisVersion": "1.0.0",
+    "timeRange": "30 days ago",
+    "generatedAt": "2025-10-07T13:41:12.7221500-04:00"
+  },
+  "commits": [
+    {
+      "Hash": "f22a945db03ec18dd8fd107d37e25395d114ce17",
+      "ShortHash": "f22a945",
+      "Message": "fix: Correct module metadata - Author: romar-j, Company: emblem-projects-inc",
+      "Author": "thisis-romar",
+      "Date": "2025-10-07T13:39:34-04:00",
+      "AIScore": 3.0,
+      "AILikelihood": [
+        "Medium",
+        "Low"
+      ],
+      "Indicators": [
+        "Conventional Commit Format",
+        "Detailed Message Length: 76 chars (+1)"
+      ],
+      "PossibleLLM": "AI Assistant (Generic)"
+    },
+    {
+      "Hash": "ee8484c10d31f25189f394fe5391f4c71cf49ed3",
+      "ShortHash": "ee8484c",
+      "Message": "feat: Initialize Developer Environment Tools v1.0.0 PowerShell module",
+      "Author": "thisis-romar",
+      "Date": "2025-10-07T13:28:14-04:00",
+      "AIScore": 7.0,
+      "AILikelihood": [
+        "High",
+        "Medium",
+        "Low"
+      ],
+      "Indicators": [
+        "Medium Probability: initialize",
+        "Medium Probability: develop",
+        "Conventional Commit Format",
+        "Detailed Message Length: 69 chars (+1)"
+      ],
+      "PossibleLLM": "AI Assistant (Generic)"
+    },
+    {
+      "Hash": "8745a7decbb77d7cfe9cdf4103fa1f3f7ccbb8be",
+      "ShortHash": "8745a7d",
+      "Message": "Initial commit",
+      "Author": "Romar J",
+      "Date": "2025-10-07T13:08:04-04:00",
+      "AIScore": 0.0,
+      "AILikelihood": "Minimal",
+      "Indicators": [],
+      "PossibleLLM": "Human"
+    }
+  ]
+}
